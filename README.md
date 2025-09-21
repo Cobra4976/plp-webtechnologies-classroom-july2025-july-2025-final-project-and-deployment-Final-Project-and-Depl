@@ -221,7 +221,7 @@ initTestimonials()         // Rotate customer testimonials
 1. Push code to GitHub repository
 2. Go to repository Settings > Pages
 3. Select source branch (main/master)
-4. Access at: 
+4. Access at: https://cobra4976.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ### Netlify (Recommended)
 1. Connect GitHub repository to Netlify
